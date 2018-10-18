@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Dialogs</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="choose">Please choose a band</string>
+    <string name="open_check_box_dialog">Open Check box Dialog</string>
+    <string name="open_radio_dialog">Open Radio Dialog</string>
+    <string name="open_dialog_simple">Open Dialog Simple</string>
+    <string name="open_dialog">Open Dialog</string>
+    <string name="question">Do you understand how a dialog works?</string>
+    <string name="title">Message</string>>
+
+    <string-array name="bands">
+        <item>Aerosmith</item>
+        <item>Metallica</item>
+        <item>Beatles</item>
+        <item>AC/DC</item>
+        <item>Slipknot</item>
+    </string-array>
+</resources>
