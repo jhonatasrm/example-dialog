@@ -1,2 +1,2 @@
 # Example Dialog
-Example of how  use dialogs on Android
+How  use dialogs on Android with 4 examples.
