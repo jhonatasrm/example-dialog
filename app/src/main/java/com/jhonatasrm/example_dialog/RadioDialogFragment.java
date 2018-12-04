@@ -22,6 +22,6 @@ public class RadioDialogFragment extends DialogFragment implements DialogInterfa
     public void onClick(DialogInterface dialogInterface, int which) {
         String[] bands = getActivity().getResources().getStringArray(R.array.bands);
         String band = bands[which];
-        Toast.makeText(getActivity(), "You chose the band " + band, Toast.LENGTH_LONG).show();
+        Toast.makeText(getActivity(), "You chose the band " + band + “of number ”+ which, Toast.LENGTH_LONG).show();
     }
 }
